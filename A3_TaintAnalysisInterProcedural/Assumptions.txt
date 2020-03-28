@@ -1,0 +1,4 @@
+Assumptions:
+1.) No global variables.
+2.) No recursion (cycles in function call). 
+4.) Print statements of all functions are sinks. Return statement of only main method is considered as sink.
