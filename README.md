@@ -1,2 +1,2 @@
 # ProgramAnalysisAssignments
-This repository includes assignments done in CSE503 "program Analysis" course at IIIT-Dlehi.
+This repository includes assignments done in CSE503 "program Analysis" course at IIIT-Delhi.
